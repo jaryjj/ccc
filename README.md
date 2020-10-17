@@ -1,11 +1,8 @@
 ### YF
-$e^{i\pi}+1=0$
-
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle e^{i \pi} %2B %20 1 = 0">
 
-THE NATURE OF CODE by Daniel ShiffmanBuy
+THE NATURE OF CODE by Daniel Shiffman
 https://natureofcode.com/book/introduction/
 
 Essence of linear algebra

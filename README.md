@@ -1,5 +1,13 @@
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle e^{i \pi} %2B %20 1 = 0">
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 THE NATURE OF CODE by Daniel Shiffman
 https://natureofcode.com/book/introduction/
 

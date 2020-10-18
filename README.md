@@ -24,3 +24,8 @@ https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTft
 https://www.youtube.com/watch?v=wWnfJ0-xXRE&list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e
 
 Snell's Law https://www.youtube.com/watch?v=Iq1a_KJTWJ8
+
+http://www.feynmanlectures.caltech.edu/
+
+CAP (Solution Password: dowager)
+https://outreach.phas.ubc.ca/exams-and-competitions/cap-high-school-prize-exam/cap-english/previous-exams-and-solutions/

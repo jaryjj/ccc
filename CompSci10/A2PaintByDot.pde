@@ -90,11 +90,12 @@ void draw () {
   if (keyPressed && key == 'e') {
     fill (a = 255, b = 255, c = 255);
   }
+  //points drawn
   if (mousePressed && mouseY <= 800) {
     fill (a, b, c);
     ellipse (mouseX, mouseY, r, r);
   }
-  //clear all activated when "r" pressed
+  //clear all function activated when "r" pressed
   if (keyPressed && key == 'r') {
     fill (255);
     rect (0, 0, 1400, 800);
